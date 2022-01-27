@@ -16,7 +16,13 @@ Anyway, Now lets Dig In To the Test site And How You Can Use It!
 
 Using Hosting Servers, You Can make this Test Page Into A Real Website!
 
-I Reccomend Using [Tiiny](https://tiiny.host) To Host this Page, Its Free, And it allows you to convert HTML Pages Into Websites With Custom Subdomains!
+Here Is A List Of Some Free HTML Hosting sites.
+
+- 000Webhostapp
+- Vercel
+- tiiny
+- Gitlabs/Github
+- Freehostia
 
 
 
