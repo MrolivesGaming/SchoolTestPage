@@ -1,3 +1,9 @@
+
+
+## Update: 
+
+### Use InfinityFree For Hosting, Its Easier And Can Have Multiple Pages.
+
 # About
 
 Hello, This is an HTML Test Page, I Made This For A School Project.
